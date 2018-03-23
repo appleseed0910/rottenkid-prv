@@ -1,0 +1,37 @@
+
+
+
+table, th, td {
+    border:  1px solid black;
+        
+}
+
+table button{
+    float: right;
+}
+
+table {
+    width:100%;
+}
+
+div {
+    
+}
+
+div.num{
+    margin-right: 1em;
+    text-align:right; 
+    float:right;
+}
+
+.parents{
+    background-color:beige;
+}
+
+.good{
+    background-color:#68e2c2;
+}
+
+.rotten{
+    background-color: #e27b63;
+}
